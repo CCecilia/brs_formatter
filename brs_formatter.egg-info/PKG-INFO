@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: brs-formatter
+Version: 0.1
+Summary: Formats brightsript files for Roku development.
+Home-page: http://github.com/storborg/funniest
+Author: Christian Cecilia
+Author-email: christian@fubo.tv
+License: MIT
+Description: # BRS Formatter
+        
+        ## To install
+        
+        ```shell script
+        pip install brs_formatter
+        ```
+Keywords: brightscript brs Roku
+Platform: UNKNOWN
+Classifier: Intended Audience :: DevelopersLicense :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Zope
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Utilities
