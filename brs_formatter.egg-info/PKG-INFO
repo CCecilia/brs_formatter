@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: brs-formatter
 Version: 0.1
 Summary: Formats brightsript files for Roku development.
-Home-page: http://github.com/storborg/funniest
+Home-page: https://github.com/CCecilia/brs_formatter
 Author: Christian Cecilia
 Author-email: christian@fubo.tv
 License: MIT

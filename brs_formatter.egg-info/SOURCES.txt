@@ -3,5 +3,7 @@ setup.py
 brs_formatter.egg-info/PKG-INFO
 brs_formatter.egg-info/SOURCES.txt
 brs_formatter.egg-info/dependency_links.txt
+brs_formatter.egg-info/entry_points.txt
 brs_formatter.egg-info/not-zip-safe
+brs_formatter.egg-info/requires.txt
 brs_formatter.egg-info/top_level.txt

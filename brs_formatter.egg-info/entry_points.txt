@@ -1,0 +1,4 @@
+
+            [console_scripts]
+            brs_beautify=brs_formatter.formatter:brs_beautify
+      

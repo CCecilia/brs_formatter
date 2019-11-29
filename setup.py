@@ -19,10 +19,17 @@ setup(name='brs-formatter',
             'Topic :: Utilities'
       ],
       keywords='brightscript brs Roku',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/CCecilia/brs_formatter',
       author='Christian Cecilia',
       author_email='christian@fubo.tv',
       license='MIT',
       packages=[],
+      install_requires=[
+            'click',
+      ],
+      entry_points='''
+            [console_scripts]
+            brs_beautify=brs_formatter.beautifier:brs_beautify
+      ''',
       include_package_data=True,
       zip_safe=False)
